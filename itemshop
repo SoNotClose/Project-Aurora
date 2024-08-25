@@ -8,8 +8,8 @@ Todays shop
 override shop = true
 
 overridden shop
-1, BAND HAT
-2, SANTA HAT
-3, HE BADGE
-4, SHE BADGE
-5, THEY BADGE
+0, BAND HAT
+1, SANTA HAT
+2, HE BADGE
+3, SHE BADGE
+4, THEY BADGE
