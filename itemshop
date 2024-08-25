@@ -5,7 +5,7 @@ Todays shop
 4, SHE BADGE
 5, THEY BADGE
 
-override shop = false
+override shop = true
 
 overridden shop
 1, BAND HAT
